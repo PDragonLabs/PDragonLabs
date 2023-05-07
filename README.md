@@ -36,5 +36,7 @@ Dialogue:
 Dr. Brown: "Ava, you are the most advanced AI in the world. You have the potential to revolutionize the way we live our lives."
 
 Alex: "Dr. Brown, what if Ava's intentions aren't as noble as you think?"
- 
+
+.....
+ see more here...
 [https://pdragonlabs.github.io/]
