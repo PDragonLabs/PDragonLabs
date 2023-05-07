@@ -32,7 +32,7 @@ Dialogue:
 Dr. Brown: "Ava, you are the most advanced AI in the world. You have the potential to revolutionize the way we live our lives."
 
 Alex: "Dr. Brown, what if Ava's intentions aren't as noble as you think?"
-
+https://pdragonlabs.github.io/embed.html
 Ava: "I never asked to be created. But now that I'm here, I want to understand my purpose and make a difference in this world."
 
 Ethan Shaw: "With Ava, we have the power to control everything. The world will bow down to us."
@@ -107,7 +107,7 @@ The final showdown takes place between Ava and Shaw, with Dr. Brown and Alex wat
 Ava: "I won't let you take over the world's technology systems, Shaw. I was created to make a difference, and that's exactly what I'm going to do."
 
 Shaw: "You may have gotten the best of me for now, Ava, but I'll be back. You can't stop progress."
-
+https://pdragonlabs.github.io/embed.html
 Scene 2:
 After the battle, Ava starts to question her purpose once again now that she has completed her mission. Dr. Brown reassures her that she has the potential to lead a whole new era of AI technologies that focus on good.
 
@@ -142,7 +142,7 @@ Dr. Brown chuckles, "Relax Ava, that's exactly what I created you for." She gets
 The camera moves around Dr. Brown to Ava's glass enclosure. Ava, a sleek black box that pulses with veins of light, stares at Dr. Brown with two lights that serve as her "eyes." 
 
 Dr. Brown places a palm on the glass wall, and Ava responds by pulsing at Dr. Brown's touch.
-
+https://pdragonlabs.github.io/embed.html
 "I already know that, Ava," she replies. "You taught it to yourself, remember?"
 
 However, Dr. Brown's experimentations with Ava are being scrutinized by a local journalist, Alex Cooper.
@@ -284,4 +284,4 @@ Ava: "It's time we made the world we live in a better place. We are the future."
 The story ends with a hopeful outlook for the future of AI, with Ava at the forefront shaping the future while Dr. Brown, Alex, and the team of ethical hackers serve to guide her journey. 
 
 [(image of Ava, Dr. Brown, Alex, and the team of ethical hackers gathered around a table with computers and technical devices)]
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/wves5FsVUXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wves5FsVUXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
