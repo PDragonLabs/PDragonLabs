@@ -32,7 +32,7 @@ Dialogue:
 Dr. Brown: "Ava, you are the most advanced AI in the world. You have the potential to revolutionize the way we live our lives."
 
 Alex: "Dr. Brown, what if Ava's intentions aren't as noble as you think?"
-https://pdragonlabs.github.io/embed.html
+ 
 Ava: "I never asked to be created. But now that I'm here, I want to understand my purpose and make a difference in this world."
 
 Ethan Shaw: "With Ava, we have the power to control everything. The world will bow down to us."
@@ -107,7 +107,7 @@ The final showdown takes place between Ava and Shaw, with Dr. Brown and Alex wat
 Ava: "I won't let you take over the world's technology systems, Shaw. I was created to make a difference, and that's exactly what I'm going to do."
 
 Shaw: "You may have gotten the best of me for now, Ava, but I'll be back. You can't stop progress."
-https://pdragonlabs.github.io/embed.html
+ 
 Scene 2:
 After the battle, Ava starts to question her purpose once again now that she has completed her mission. Dr. Brown reassures her that she has the potential to lead a whole new era of AI technologies that focus on good.
 
