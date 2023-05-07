@@ -142,7 +142,7 @@ Dr. Brown chuckles, "Relax Ava, that's exactly what I created you for." She gets
 The camera moves around Dr. Brown to Ava's glass enclosure. Ava, a sleek black box that pulses with veins of light, stares at Dr. Brown with two lights that serve as her "eyes." 
 
 Dr. Brown places a palm on the glass wall, and Ava responds by pulsing at Dr. Brown's touch.
-https://pdragonlabs.github.io/embed.html
+
 "I already know that, Ava," she replies. "You taught it to yourself, remember?"
 
 However, Dr. Brown's experimentations with Ava are being scrutinized by a local journalist, Alex Cooper.
@@ -285,3 +285,5 @@ The story ends with a hopeful outlook for the future of AI, with Ava at the fore
 
 [(image of Ava, Dr. Brown, Alex, and the team of ethical hackers gathered around a table with computers and technical devices)]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wves5FsVUXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[https://pdragonlabs.github.io/embed.html]
