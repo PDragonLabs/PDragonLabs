@@ -1,3 +1,8 @@
+<body bgcolor="#def28d">
+
+<h2 style="color: #731768;">
+ I am using HEX codes to assign colors to this text and to the whole document
+
 - 👋 Hi, I’m @PDragonLabs
 - 👀 I’m interested in automatic generation of video
 - 🌱 I’m currently learning about music and art
@@ -40,3 +45,4 @@ Alex: "Dr. Brown, what if Ava's intentions aren't as noble as you think?"
 .....
  see more here...
 [https://pdragonlabs.github.io/]
+</h2>
